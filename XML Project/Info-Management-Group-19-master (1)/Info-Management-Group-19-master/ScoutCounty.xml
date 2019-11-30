@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!DOCTYPE county_info SYSTEM "scout_county.dtd">
+<scout_county_list>
+   <scout_county location = 'Dublin'>
+	<commissioner_name>
+		<first_name>Lisa</first_name>
+		<other_name>Marie</other_name>
+		<other_name>Ryan</other_name>
+	</commissioner_name>
+	<treasurer_name>
+		<first_name>John</first_name>
+		<other_name>Joe</other_name>
+		<other_name>Nevan</other_name>
+	</treasurer_name>
+	<scout_groups>
+		<scout_group>
+			<name>Roselawn Scouting</name>
+			<meeting_location meeting_time = "18:00">Roselawn</meeting_location>
+			<group_type>Cub Scouts</group_type>
+			<scouts id = "3"></scouts>
+		</scout_group>
+		<scout_group>
+			<name>Chapel Scouters</name>
+			<meeting_location meeting_time = "18:30">Chapelizod</meeting_location>
+			<group_type>Venture Scouts</group_type>
+			<scouts id = "2"></scouts>
+		</scout_group>
+		<scout_group>
+			<name>Island Scouters</name>
+			<meeting_location meeting_time = "20:00">Islandbridge</meeting_location>
+			<group_type>Brownie Guides</group_type>
+			<scouts id = "11"></scouts>
+		</scout_group>
+	</scout_groups>
+	</scout_county>
+</scout_county_list>
